@@ -1,0 +1,11 @@
+{
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": true,
+        "scminput": true
+    },
+    "inlineChat.enableV2": true,
+    "inlineChat.finishOnType": true,
+    "inlineChat.lineEmptyHint": true
+}
