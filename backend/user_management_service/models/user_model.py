@@ -4,4 +4,4 @@ from dataclasses import dataclass
 @dataclass
 class User:
     username: str
-    password: str
+    password_hash: str
