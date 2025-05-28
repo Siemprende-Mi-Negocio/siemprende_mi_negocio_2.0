@@ -1,5 +1,5 @@
-# Frontend Application
+# Aplicación Frontend
 
-This folder contains the React web application that interacts with the backend services.
+En esta carpeta se encuentra la aplicación web React que interactúa con los servicios backend.
 
-Running `docker-compose` will start the frontend in development mode and connect it to the API specified by `REACT_APP_API_URL`.
+Al ejecutar `docker-compose` se iniciará el frontend en modo desarrollo y se conectará a la API indicada mediante `REACT_APP_API_URL`.
