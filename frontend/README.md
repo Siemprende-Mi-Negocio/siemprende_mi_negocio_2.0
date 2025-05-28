@@ -1,5 +1,10 @@
 # Frontend Application
 
-This folder contains the React web application that interacts with the backend services.
+Aplicación React con TypeScript para *Siemprende Mi Negocio*.
 
-Running `docker-compose` will start the frontend in development mode and connect it to the API specified by `REACT_APP_API_URL`.
+```bash
+npm install
+npm start
+```
+
+La variable `REACT_APP_API_URL` define la URL base del API y se lee desde `.env`.
