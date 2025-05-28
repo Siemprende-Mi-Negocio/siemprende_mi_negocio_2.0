@@ -1,5 +1,5 @@
-# Backend Services
+# Servicios Backend
 
-This directory houses the Python microservices that power the platform. Each service runs independently and exposes RESTful APIs.
+Este directorio contiene los microservicios en Python que dan vida a la plataforma. Cada servicio se ejecuta de manera independiente y expone APIs REST.
 
-Use `docker-compose` to start the development environment and connect to the database defined in `.env`.
+Utiliza `docker-compose` para iniciar el entorno de desarrollo y conectarte a la base de datos definida en `.env`.
